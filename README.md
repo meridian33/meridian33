@@ -1,16 +1,22 @@
-## Hi there 👋
+# Adylzhan Mamutov
 
-<!--
-**meridian33/meridian33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Information Systems student at **IITU**, Kazakhstan · Expected graduation **2027**.
 
-Here are some ideas to get you started:
+I am developing my software engineering skills through personal web projects and preparing for engineering internships in 2027.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+- **LifeHub** — a personal workspace for tasks, notes, calendar planning and finances. React, TypeScript and Cloudflare D1.
+- **[Orya](https://store-flow-app.meridian-ai.chatgpt.site)** — a retail operations application covering sales, inventory and staff workflows. Source export is being prepared.
+- **Meridian Electronics** — an electronics-store portfolio project with an Angular frontend, Node.js API and SQLite. Currently being prepared for publication.
+
+## Focus
+
+Web applications, API design, data validation and reliable user flows. I use these projects to practise, review implementation choices and build a stronger technical foundation.
+
+## Background
+
+- Information Systems studies at IITU; expected graduation in 2027.
+- Summer Work and Travel USA participant, 2026.
+
+[GitHub repositories](https://github.com/meridian33?tab=repositories)
