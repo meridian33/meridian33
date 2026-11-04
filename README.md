@@ -6,9 +6,8 @@ I am developing my software engineering skills through personal web projects and
 
 ## Projects
 
-- **LifeHub** — a personal workspace for tasks, notes, calendar planning and finances. React, TypeScript and Cloudflare D1.
-- **[Orya](https://store-flow-app.meridian-ai.chatgpt.site)** — a retail operations application covering sales, inventory and staff workflows. Source export is being prepared.
-- **Meridian Electronics** — an electronics-store portfolio project with an Angular frontend, Node.js API and SQLite. Currently being prepared for publication.
+- **[LifeHub](https://github.com/meridian33/LifeHub)** — a personal workspace for tasks, notes, calendar planning and finances. React, TypeScript and Cloudflare D1.
+- **[Orya](https://store-flow-app.meridian-ai.chatgpt.site)** — a retail operations application covering sales, inventory and staff workflows.
 
 ## Focus
 
